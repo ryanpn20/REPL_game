@@ -7,3 +7,6 @@
 	5. Give yourself a number.
 	6. Sign a shoe deal!
 
+
+*****************
+This is my friends awesome REPL game
